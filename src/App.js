@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 import GlobalStyle from './globalStyles'
-import { Navbar, Footer } from './components'
+import { Navbar, Footer, ScrollToTop } from './components'
 
 import Home from './pages/Homepage/Home'
 import Services from './pages/Services/Services'
@@ -13,6 +13,7 @@ function App() {
   return (
     <Router>
       <GlobalStyle />
+      <ScrollToTop />
       <Navbar />
       <Switch>
         <Route path="/" exact component={Home} />
