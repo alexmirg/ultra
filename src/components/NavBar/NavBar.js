@@ -42,7 +42,7 @@ const NavBar = () => {
           <IconContext.Provider value={{color: '#fff'}}>
             <Nav>
               <NavbarContainer>
-                  <NavLogo to="/" onClick={closeMobileMenu}>
+                  <NavLogo to="/ultra" onClick={closeMobileMenu}>
                       <NavIcon />
                       ULTRA
                   </NavLogo>
@@ -50,7 +50,7 @@ const NavBar = () => {
                     {click ? <FaTimes /> : <FaBars />}
                   </MobileIcon>
                   <NavMenu onClick={handleClick} click={click}>
-                    <NavItem><NavLinks to='/'>Home</NavLinks></NavItem>
+                    <NavItem><NavLinks to='/ultra'>Home</NavLinks></NavItem>
                     <NavItem><NavLinks to='/services'>Services</NavLinks></NavItem>
                     <NavItem><NavLinks to='/products'>Products</NavLinks></NavItem>
                     <NavItemBtn>

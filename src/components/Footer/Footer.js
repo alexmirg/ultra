@@ -48,60 +48,60 @@ const Footer = () => {
                     <FooterLinksItems>
                         <FooterLinkTitle>About us</FooterLinkTitle>
                         <FooterLink to="/sign-up">How it works</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Careers</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink>
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/ultra">Testimonials</FooterLink>
+                        <FooterLink to="/ultra">Careers</FooterLink>
+                        <FooterLink to="/ultra">Investors</FooterLink>
+                        <FooterLink to="/ultra">Terms of Service</FooterLink>
                     </FooterLinksItems>
                     <FooterLinksItems>
                         <FooterLinkTitle>Contact Us</FooterLinkTitle>
                         <FooterLink to="/sign-up">How it works</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Careers</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink>
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/ultra">Testimonials</FooterLink>
+                        <FooterLink to="/ultra">Careers</FooterLink>
+                        <FooterLink to="/ultra">Investors</FooterLink>
+                        <FooterLink to="/ultra">Terms of Service</FooterLink>
                     </FooterLinksItems>
                     </FooterLinksWrapper>
                     <FooterLinksWrapper>
                     <FooterLinksItems>
                         <FooterLinkTitle>Videos</FooterLinkTitle>
                         <FooterLink to="/sign-up">How it works</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Careers</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink>
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/ultra">Testimonials</FooterLink>
+                        <FooterLink to="/ultra">Careers</FooterLink>
+                        <FooterLink to="/ultra">Investors</FooterLink>
+                        <FooterLink to="/ultra">Terms of Service</FooterLink>
                     </FooterLinksItems>
                     <FooterLinksItems>
                         <FooterLinkTitle>Social Media</FooterLinkTitle>
                         <FooterLink to="/sign-up">How it works</FooterLink>
-                        <FooterLink to="/">Testimonials</FooterLink>
-                        <FooterLink to="/">Careers</FooterLink>
-                        <FooterLink to="/">Investors</FooterLink>
-                        <FooterLink to="/">Terms of Service</FooterLink>
+                        <FooterLink to="/ultra">Testimonials</FooterLink>
+                        <FooterLink to="/ultra">Careers</FooterLink>
+                        <FooterLink to="/ultra">Investors</FooterLink>
+                        <FooterLink to="/ultra">Terms of Service</FooterLink>
                     </FooterLinksItems>
                 </FooterLinksWrapper>
             </FooterLinksContainer>
             <SocialMedia>
                 <SocialMediaWrap>
-                    <SocialLogo to="/">
+                    <SocialLogo to="/ultra">
                         <SocialIcon />
                         Ultra
                     </SocialLogo>
                     <WebsiteRights>ULTRA © 2020</WebsiteRights>
                     <SocialIcons>
-                        <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+                        <SocialIconLink href="/ultra" target="_blank" aria-label="Facebook">
                             <FaFacebook />
                         </SocialIconLink>
-                        <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+                        <SocialIconLink href="/ultra" target="_blank" aria-label="Instagram">
                             <FaInstagram />
                         </SocialIconLink>
-                        <SocialIconLink href="/" target="_blank" aria-label="Youtube" rel="noopener noreferrer">
+                        <SocialIconLink href="/ultra" target="_blank" aria-label="Youtube" rel="noopener noreferrer">
                             <FaYoutube />
                         </SocialIconLink>
-                        <SocialIconLink href="/" target="_blank" aria-label="Twitter">
+                        <SocialIconLink href="/ultra" target="_blank" aria-label="Twitter">
                             <FaTwitter />
                         </SocialIconLink>
-                        <SocialIconLink href="/" target="_blank" aria-label="Linkedin">
+                        <SocialIconLink href="/ultra" target="_blank" aria-label="Linkedin">
                             <FaLinkedin />
                         </SocialIconLink>
                     </SocialIcons>
