@@ -1,5 +1,12 @@
 import React from 'react'
-import {FaFacebook, FaInstagram, FaTwitter, FaYoutube, FaLinkedin} from 'react-icons/fa'
+import {
+    FaFacebook,
+    FaInstagram,
+    FaTwitter,
+    FaYoutube,
+    FaLinkedin
+} from 'react-icons/fa'
+import { Button } from '../../globalStyles'
 import {
     FooterContainer,
     FooterSubscription,
@@ -20,7 +27,6 @@ import {
     SocialIconLink,
     SocialIcon
 } from './Footer.elements'
-import { Button } from '../../globalStyles'
 
 const Footer = () => {
     return (

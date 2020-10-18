@@ -1,8 +1,8 @@
-import React, {useState, useEffect} from 'react'
-import {FaBars, FaTimes} from 'react-icons/fa'
-import {IconContext} from 'react-icons/lib'
+import React, { useState, useEffect } from 'react'
+import { IconContext } from 'react-icons/lib'
+import { FaBars, FaTimes } from 'react-icons/fa'
 
-import {Button} from '../../globalStyles'
+import { Button } from '../../globalStyles'
 
 import {
   Nav,

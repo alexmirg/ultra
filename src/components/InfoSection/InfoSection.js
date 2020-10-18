@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 import { Container, Button } from '../../globalStyles'
 import {
@@ -13,7 +13,6 @@ import {
     ImgWrapper,
     Img
 } from './InfoSection.elements'
-
 
 const InfoSection = ({
     primary,
