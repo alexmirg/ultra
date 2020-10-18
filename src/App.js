@@ -16,7 +16,7 @@ function App() {
       <ScrollToTop />
       <Navbar />
       <Switch>
-        <Route path="/" exact component={Home} />
+        <Route path="/ultra" exact component={Home} />
         <Route path="/services" exact component={Services} />
         <Route path="/products" exact component={Products} />
         <Route path="/signup" exact component={SignUp} />
